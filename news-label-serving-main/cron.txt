@@ -1,0 +1,2 @@
+# Every day at 4am.
+0 4 * * * bash /home/ubuntu/news-label-serving/run_predict.sh

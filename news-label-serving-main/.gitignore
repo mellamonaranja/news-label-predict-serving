@@ -1,0 +1,6 @@
+models/__pycache__/MainModels.cpython-36.pyc
+models/__pycache__/TransformerLayers.cpython-36.pyc
+models/__pycache__/UtilLayers.cpython-36.pyc
+config.yml
+log/
+outputs/

@@ -1,0 +1,16 @@
+wandb==0.13.5
+torch==1.12.1 --extra-index-url https://download.pytorch.org/whl/cu113
+tensorboard
+datasets>=1.5.0
+tensorflow>=2.4.0
+transformers>=4.4.0
+tokenizers<=0.10.2
+hydra-core==1.0.6
+matplotlib
+tqdm
+soynlp
+seaborn
+Flask
+Flask_restful
+tensorflow_addons
+pymysql
