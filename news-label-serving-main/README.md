@@ -1,6 +1,6 @@
 # news label predict serving
  Replicaset으로 동기화된 AWS database에서 뉴스 기사를 가져와 30개 중 최대 3개 class로 모델이 예측한 후 scrap-server의 Database에 predict 컬럼에 update 반영하는 pipeline 구축(scrap-server의 ai_scraper_api container에서 api receive)<br>
- https://www.notion.so/illunex/72a345b66cdd4784850ebfa0a4fa97b5
+
 
 
 ## model
